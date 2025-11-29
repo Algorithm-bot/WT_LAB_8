@@ -1,4 +1,3 @@
-// Sample student data
 export const studentsData = [
   {
     id: 1,
