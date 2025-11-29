@@ -2,7 +2,7 @@
 export const studentsData = [
   {
     id: 1,
-    name: "John Doe",
+    name: "Rahul Sharma",
     attendance: 85,
     marks: 78,
     grade: "B+",
@@ -10,7 +10,7 @@ export const studentsData = [
   },
   {
     id: 2,
-    name: "Jane Smith",
+    name: "Priya Patel",
     attendance: 92,
     marks: 88,
     grade: "A",
@@ -18,7 +18,7 @@ export const studentsData = [
   },
   {
     id: 3,
-    name: "Mike Johnson",
+    name: "Arjun Singh",
     attendance: 45,
     marks: 35,
     grade: "F",
@@ -26,7 +26,7 @@ export const studentsData = [
   },
   {
     id: 4,
-    name: "Sarah Williams",
+    name: "Ananya Reddy",
     attendance: 88,
     marks: 82,
     grade: "A-",
@@ -34,7 +34,7 @@ export const studentsData = [
   },
   {
     id: 5,
-    name: "David Brown",
+    name: "Vikram Kumar",
     attendance: 75,
     marks: 65,
     grade: "C+",
@@ -42,7 +42,7 @@ export const studentsData = [
   },
   {
     id: 6,
-    name: "Emily Davis",
+    name: "Kavya Nair",
     attendance: 50,
     marks: 42,
     grade: "F",
@@ -50,7 +50,7 @@ export const studentsData = [
   },
   {
     id: 7,
-    name: "Chris Wilson",
+    name: "Aditya Gupta",
     attendance: 90,
     marks: 85,
     grade: "A",
